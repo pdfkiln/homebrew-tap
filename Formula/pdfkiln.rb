@@ -6,7 +6,7 @@ class Pdfkiln < Formula
 
   on_macos do
     on_arm do
-      url "https://github.com/Jamalofski/pdfkiln/releases/download/1.1.0/pdfkiln-1.1.0-macos-arm64.tar.gz"
+      url "https://github.com/pdfkiln/pdfkiln/releases/download/1.1.0/pdfkiln-1.1.0-macos-arm64.tar.gz"
       sha256 "cde98621d384ae7899e538c4eaeca206d091d7eee2064e2c252cb8354b9d3d31"
     end
   end

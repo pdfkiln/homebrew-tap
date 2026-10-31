@@ -6,4 +6,4 @@
 brew install pdfkiln/tap/pdfkiln
 ```
 
-The formula installs the macOS archive of a [release](https://github.com/Jamalofski/pdfkiln/releases), its SHA-256 checked. Source, issues and documentation: [Jamalofski/pdfkiln](https://github.com/Jamalofski/pdfkiln). Not affiliated with the wkhtmltopdf project.
+The formula installs the macOS archive of a [release](https://github.com/pdfkiln/pdfkiln/releases), its SHA-256 checked. Source, issues and documentation: [pdfkiln/pdfkiln](https://github.com/pdfkiln/pdfkiln). Not affiliated with the wkhtmltopdf project.
