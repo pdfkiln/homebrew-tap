@@ -1,13 +1,13 @@
 class Pdfkiln < Formula
   desc "Drop-in replacement for wkhtmltopdf, powered by Chromium"
   homepage "https://pdfkiln.org"
-  version "1.1.0"
+  version "1.1.1"
   license "MIT"
 
   on_macos do
     on_arm do
-      url "https://github.com/pdfkiln/pdfkiln/releases/download/1.1.0/pdfkiln-1.1.0-macos-arm64.tar.gz"
-      sha256 "cde98621d384ae7899e538c4eaeca206d091d7eee2064e2c252cb8354b9d3d31"
+      url "https://github.com/pdfkiln/pdfkiln/releases/download/1.1.1/pdfkiln-1.1.1-macos-arm64.tar.gz"
+      sha256 "78f70a6dd4f630df4ba34af32e3ee864c9f8ef068a4ffe7105d5bfcc236700af"
     end
   end
 
